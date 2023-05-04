@@ -48,6 +48,9 @@ Java와 Oracle, JSP, Servlet 기반의 영화 리뷰 웹사이트
 
 (각 항목을 클릭하면 펼쳐집니다.)
 
+- 각 기능 백엔드 / 프론트엔드 구현
+- 기여도: 30%
+
 <details>
   <summary><h3>마이페이지</h3></summary>
   
