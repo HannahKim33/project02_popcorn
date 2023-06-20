@@ -68,7 +68,7 @@ Java와 Oracle, JSP, Servlet 기반의 영화 리뷰 웹사이트
 <details>
   <summary><h3>마이페이지 프로필</h3></summary>
   
-  ![image](https://user-images.githubusercontent.com/97737386/231754149-dcdcbfef-59de-499e-8567-933e13e86dc4.png)
+  ![image](https://user-images.githubusercontent.com/97737386/231754149-dcdcbfe.png)
      
     - 프로필 사진, 닉네임, 비밀번호를 Ajax 혹은 Servlet을 이용해 각각 변경할 수 있게 했고 확인을 누르면 바로 반영되어 프로필 화면에 출력됩니다.
      
